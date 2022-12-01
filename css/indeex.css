@@ -42,9 +42,6 @@ ul li{
 }
 /*end  genral prop */
 /* start loader  */
-.loading{
-    /* display: none; */
-}
 .doted-loader{
     width: 100px;
     height: 100px;

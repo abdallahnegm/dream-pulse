@@ -17,7 +17,6 @@ function exite(){
         ex.style.left="block" ;
     }
 }
-// window.onload
 setTimeout( function load(){
     var ll=document.getElementById("load") 
     if(ll.style.display="block"){
@@ -27,14 +26,3 @@ setTimeout( function load(){
         ll.style.display="none"
     }
 },) 
-// setTimeout(function(){
-//     $('body')
-//     .removeClass('loading')
-//     .addClass('loaded')
-// })
-// window.load=load()
-// setTimeout(function() {
-//     $('body')
-//         .removeClass('loading')
-//         .addClass('loaded');
-// },2000);
